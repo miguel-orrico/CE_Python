@@ -1,2 +1,2 @@
-** Bienvenido al repositorio del Curso de especialización de Python
+*** Bienvenido al repositorio del Curso de especialización de Python
 
